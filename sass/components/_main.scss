@@ -1,0 +1,7 @@
+.main {
+    overflow: hidden;
+
+    @media screen and (max-width: 374px) {
+        width: 375px;
+    }
+}
