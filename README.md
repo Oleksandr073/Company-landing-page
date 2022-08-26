@@ -17,5 +17,5 @@ https://Oleksandr073.github.io/Company-landing-page/
 
 https://www.figma.com/file/RnNfSdKwg0Iye6SA4XiRSp/Company_Responsive_Landing_Page
 
-<img align="left" width="80%" src="./Company_1440.jpg"/>
+<img align="left" width="70%" src="./Company_1440.jpg"/>
 <img width="20%" src="./Company_375.jpg"/>
